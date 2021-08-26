@@ -1,0 +1,11 @@
+# Create RStudio project templates {#proj-templates}
+
+```{r, include = FALSE}
+source("common.R")
+```
+
+Including "worksheets" or report templates with R Markdown 
+
+## Why do this?
+
+https://rstudio.github.io/rstudio-extensions/rstudio_project_templates.html
